@@ -1,4 +1,4 @@
-# Financial Markets - Exchange Traded (Open to Retail) and OTC Markets
+# Introduction to Financial Markets and Bonds
 
 ## Securities and Contracts
 - Basic Securities
