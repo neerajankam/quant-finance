@@ -6,7 +6,7 @@
 
     - **Simple Interest**: Interest calculated solely on the initial principal amount for a specified period.
     
-        $$[I = P \cdot t \cdot r\]$$
+        $$I = P \cdot t \cdot r\$$
 
         Where:
         - *I* is the interest earned or paid.
@@ -16,7 +16,7 @@
 
     - **Compound Interest**: Interest calculated on both the initial principal amount and any accumulated interest for a specified period.
     
-        $$[I = P \left(1 + \frac{r}{n}\right)^{nt}\]$$
+        $$I = P \left(1 + \frac{r}{n}\right)^{nt}\$$
 
         Where:
         - *I* is the interest earned.
@@ -27,7 +27,7 @@
 
     - **Continuous Interest**: Interest calculated when compounding occurs continuously, without discrete periods.
     
-        $$A = P \cdot e^{rt}\]$$
+        $$A = P \cdot e^{rt}\$$
 
         Where:
         - *A* is the future value of the investment, including interest.
