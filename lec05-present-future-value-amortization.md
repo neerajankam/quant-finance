@@ -40,7 +40,7 @@ $$PV_{\text{Annuity}} = \frac{PMT}{r} \left(1 - \frac{1}{(1 + r)^n}\right)$$
 
 Where:
 
-- $$(PV_{\text{Annuity}}$$ is the present value of the annuity
+- $$PV_{\text{Annuity}}$$ is the present value of the annuity
 - PMT is the periodic payment or receipt
 - r is the interest rate per period
 - n is the total number of periods
@@ -50,7 +50,7 @@ Where:
 
 **Formula**:
 
-$$FV_{\text{Annuity}} = PMT \cdot \left(\frac{(1 + r)^n - 1}{r}\right$$
+$$FV_{\text{Annuity}} = PMT \cdot \left(\frac{(1 + r)^n - 1}{r}\right)$$
 
 Where:
 
