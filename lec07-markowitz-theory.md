@@ -75,4 +75,8 @@ $$
 
 $$
 E(K_v) = P_{\text{recession}} \cdot [W_1 \cdot E(K_1)_{\text{recession}} + W_2 \cdot E(K_2)_{\text{recession}}] \\
-+ P_{\text{stagnation}} \cdot [W_1 \cdot E(K_1)_{\text{stagnation}} + W_2 \cdot E(K_2
+
++ P_{\text{stagnation}} \cdot [W_1 \cdot E(K_1)_{\text{stagnation}} + W_2 \cdot E(K_2)_{\text{stagnation}}] \\
+
++ P_{\text{boom}} \cdot [W_1 \cdot E(K_1)_{\text{boom}} + W_2 \cdot E(K_2)_{\text{boom}]
+$$
