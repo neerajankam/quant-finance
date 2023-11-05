@@ -1,5 +1,3 @@
-Here's the provided text formatted in markdown:
-
 ## **Markowitz Portfolio Theory**
 
 Markowitz Portfolio Theory, developed by Harry Markowitz in the 1950s, is a widely recognized framework for constructing an efficient investment portfolio. This theory is a cornerstone of modern portfolio management and is based on the idea that investors can maximize returns for a given level of risk or minimize risk for a given level of returns by carefully selecting and diversifying a combination of assets in their investment portfolio.
