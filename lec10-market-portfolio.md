@@ -1,6 +1,6 @@
 ## **Minimum Variance Line Continued, Market Portfolio**
 
-- Two fund theorem
+### **Two fund theorem**
     
     Two-Fund Theorem can be applied to portfolios that lie on the Minimum Variance Line (MVL) in the context of the Capital Market Line (CML). Here's how you can express it:
     
