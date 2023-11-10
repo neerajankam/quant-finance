@@ -26,9 +26,9 @@ Treynor's Index, Jensen's Index, and Sharpe's Index are commonly used performanc
 1. **Treynor's Index (Treynor Ratio):**
     - **Formula:** (Portfolio Return - Risk-Free Rate) / Portfolio Beta
 
-    $$
-    \text{Treynor Ratio (T)} = \frac{R_p - R_f}{\beta_p}
-    $$
+$$
+\text{Treynor Ratio (T)} = \frac{R_p - R_f}{\beta_p}
+$$
 
     Where:
     - *Rp*: Portfolio return.
@@ -41,9 +41,9 @@ Treynor's Index, Jensen's Index, and Sharpe's Index are commonly used performanc
 2. **Jensen's Index (Jensen's Alpha):**
     - **Formula:** Portfolio Return - [Risk-Free Rate + Portfolio Beta * (Market Return - Risk-Free Rate)]
 
-    $$
-    \text{Jensen's Alpha (α)} = R_p - [R_f + \beta_p \times (R_m - R_f)]
-    $$
+$$
+\text{Jensen's Alpha (α)} = R_p - [R_f + \beta_p \times (R_m - R_f)]
+$$
 
     Where:
     - *Rp*: Portfolio return.
@@ -57,9 +57,9 @@ Treynor's Index, Jensen's Index, and Sharpe's Index are commonly used performanc
 3. **Sharpe's Index (Sharpe Ratio):**
     - **Formula:** (Portfolio Return - Risk-Free Rate) / Portfolio Standard Deviation
 
-    $$
-    \text{Sharpe Ratio (S)} = \frac{R_p - R_f}{\sigma_p}
-    $$
+$$
+\text{Sharpe Ratio (S)} = \frac{R_p - R_f}{\sigma_p}
+$$
 
     Where:
     - *Rp*: Portfolio return.
