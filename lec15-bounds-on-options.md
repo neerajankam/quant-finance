@@ -4,7 +4,6 @@
 
 $$
 S(0) - Xe^{-rT} \geq C^A - P^A \geq S(0) - X
-
 $$
 
 Where:
@@ -21,7 +20,6 @@ With dividends
 
 $$
 S(0) - Xe^{-rT} \geq C^A - P^A \geq S(0) - X - \text{div}(0)
-
 $$
 
 - *S*(0) = Initial stock price
