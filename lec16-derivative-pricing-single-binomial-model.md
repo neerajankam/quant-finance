@@ -37,18 +37,17 @@ These payoff expressions represent the profit or loss the option holder would re
 The real-world probabilities (p and q) and risk-neutral probabilities (p̃ and q̃) are concepts commonly used in the pricing and valuation of financial derivatives, such as options, in the context of the binomial pricing model and other mathematical models. These probabilities serve different purposes and reflect different assumptions about the behavior of financial markets:
 
 1. **Real-World Probabilities (p and q)**:
-    - **p**: The real-world probability of an "up" movement in the underlying asset's price. It represents the actual likelihood of the asset's price increasing.
-    - **q**: The real-world probability of a "down" movement in the underlying asset's price. It represents the actual likelihood of the asset's price decreasing.
-    - These probabilities are based on the actual dynamics of the financial market, including factors like supply and demand, market sentiment, and economic conditions.
+- **p**: The real-world probability of an "up" movement in the underlying asset's price. It represents the actual likelihood of the asset's price increasing.
+- **q**: The real-world probability of a "down" movement in the underlying asset's price. It represents the actual likelihood of the asset's price decreasing.
+- These probabilities are based on the actual dynamics of the financial market, including factors like supply and demand, market sentiment, and economic conditions.
 2. **Risk-Neutral Probabilities (p̃ and q̃)**:
-    - **p̃**: The risk-neutral probability of an "up" movement in the underlying asset's price. It is an assumed probability used in derivative pricing models, such as the binomial model and the Black-Scholes model. The risk-neutral assumption is that investors are risk-neutral and do not require a risk premium for holding the derivative.
-    - **q̃**: The risk-neutral probability of a "down" movement in the underlying asset's price. It complements p̃ to ensure that the probabilities sum to 1.
-    - These probabilities are constructed to make the expected return on the derivative equal to the risk-free interest rate. In other words, they are chosen to simplify the pricing calculations and remove the risk premium.
+- **p̃**: The risk-neutral probability of an "up" movement in the underlying asset's price. It is an assumed probability used in derivative pricing models, such as the binomial model and the Black-Scholes model. The risk-neutral assumption is that investors are risk-neutral and do not require a risk premium for holding the derivative.
+- **q̃**: The risk-neutral probability of a "down" movement in the underlying asset's price. It complements p̃ to ensure that the probabilities sum to 1.
+- These probabilities are constructed to make the expected return on the derivative equal to the risk-free interest rate. In other words, they are chosen to simplify the pricing calculations and remove the risk premium.
     
 $$
 p̃ = \frac{1 + r - d}{u - d}\\
 q̃  =  (1-p̃)
-
 $$
 
 
@@ -74,17 +73,19 @@ This assumption simplifies certain financial models and makes them more tractabl
 
 A risk premium is the excess return expected by investors for taking on additional risk. It represents the compensation investors require for bearing the uncertainty and volatility associated with a particular investment. In the context of the Capital Asset Pricing Model (CAPM), the risk premium is the difference between the expected return of an investment and the risk-free rate.
 
-The formula for the expected return (\(E(R)\)) of an investment under the CAPM is:
+The formula for the expected return **E(R)** of an investment under the CAPM is:
 
-\[ E(R) = R_f + \beta \cdot (E(R_m) - R_f) \]
+$$
+E(R) = R_f + \beta \cdot (E(R_m) - R_f)
+$$
 
 Where:
 
-- \( R_f \) is the risk-free rate,
-- \( \beta \) is the beta of the investment,
-- \( E(R_m) \) is the expected return of the market.
+- **R_f** is the risk-free rate,
+- **beta** is the beta of the investment,
+- **E(R_m)** is the expected return of the market.
 
-The risk premium (\(E(R) - R_f\)) is a measure of the additional return required by investors for taking on systematic (market) risk. It quantifies the compensation for the risk that cannot be diversified away.
+The risk premium **E(R) - R_f** is a measure of the additional return required by investors for taking on systematic (market) risk. It quantifies the compensation for the risk that cannot be diversified away.
 
 In summary, the risk-neutral assumption simplifies models by assuming that investors are indifferent to risk, while the risk premium reflects the extra return demanded by investors for bearing risk in reality.
     
